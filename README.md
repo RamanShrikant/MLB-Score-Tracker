@@ -1,2 +1,3 @@
 # MLB-Score-Tracker
-A chrome extension for making a chrome extension.
+A chrome extension for tracking MLB scores.
+
