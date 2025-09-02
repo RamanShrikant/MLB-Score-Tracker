@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "MLB Score Tracker",
     "description": "Keep track of all MLB scores happening today and their scheduled times with this extension.",
-    "version": "1.1",
+    "version": "1.2",
     "action":{
         "default_popup": "popup.html"
     },
@@ -18,5 +18,6 @@
  "https://statsapi.mlb.com/*"
  ]
     
+
 
 }
